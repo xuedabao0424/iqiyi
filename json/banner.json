@@ -1,0 +1,26 @@
+[
+  {
+    "url": "./img/banner1.jpg",
+    "href": "https://baidu.com/",
+    "title": "风起长林",
+    "desc": "风起长林描述描述"
+  },
+  {
+    "url": "./img/banner2.jpg",
+    "href": "https://baidu.com/",
+    "title": "你好 旧时光",
+    "desc": "你好 旧时光描述描述"
+  },
+  {
+    "url": "./img/banner3.jpg",
+    "href": "https://baidu.com/",
+    "title": "极光之恋",
+    "desc": "极光之恋描述描述"
+  },
+  {
+    "url": "./img/banner4.jpg",
+    "href": "https://baidu.com/",
+    "title": "龙凤店传奇",
+    "desc": "龙凤店传奇描述描述"
+  }
+]

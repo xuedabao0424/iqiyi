@@ -1,0 +1,73 @@
+<ul class="clearfix">
+  <li class="small">
+    <a class="gotoLink" href="#"><img data-src="./img/6.jpg" alt=""></a>
+    <div>
+      <p><a href="#">九州海上牧云记</a></p>
+      <p><span>每周二至周六20点更新</span></p>
+    </div>
+    <i class="icon icon-vip">VIP</i>
+    <i class="icon icon-px">1080P</i>
+    <i class="icon icon-jiquan">24集全</i>
+  </li>
+  <li class="small">
+    <a class="gotoLink" href="#"><img data-src="./img/5.jpg" alt=""></a>
+    <div>
+      <p><a href="#">电视剧三电视剧三</a></p>
+      <p><span>停止更新</span></p>
+    </div>
+    <i class="icon icon-vip">VIP</i>
+    <i class="icon icon-px">1080P</i>
+    <i class="icon icon-jiquan">24集全</i>
+  </li>
+  <li class="small">
+    <a class="gotoLink" href="#"><img data-src="./img/4.jpg" alt=""></a>
+    <div>
+      <p><a href="#">电视剧四电视剧四</a></p>
+      <p><span>已更新完毕</span></p>
+    </div>
+    <i class="icon icon-vip">VIP</i>
+    <i class="icon icon-px">1080P</i>
+    <i class="icon icon-jiquan">24集全</i>
+  </li>
+  <li class="small">
+    <a class="gotoLink" href="#"><img data-src="./img/3.jpg" alt=""></a>
+    <div>
+      <p><a href="#">电视剧二电视剧二</a></p>
+      <p><span>每周更新</span></p>
+    </div>
+    <i class="icon icon-vip">VIP</i>
+    <i class="icon icon-px">1080P</i>
+    <i class="icon icon-jiquan">24集全</i>
+  </li>
+  <li class="small">
+    <a class="gotoLink" href="#"><img data-src="./img/6.jpg" alt=""></a>
+    <div>
+      <p><a href="#">电视剧五电视剧五</a></p>
+      <p><span>每周四更新</span></p>
+    </div>
+    <i class="icon icon-vip">VIP</i>
+    <i class="icon icon-px">1080P</i>
+    <i class="icon icon-jiquan">24集全</i>
+  </li>
+  <li class="small">
+    <a class="gotoLink" href="#"><img data-src="./img/1.jpg" alt=""></a>
+    <div>
+      <p><a href="#">电视剧六电视剧六</a></p>
+      <p><span>每天12：00更新</span></p>
+    </div>
+    <i class="icon icon-vip">VIP</i>
+    <i class="icon icon-px">1080P</i>
+    <i class="icon icon-jiquan">24集全</i>
+  </li>
+  <li class="small">
+    <a class="gotoLink" href="#"><img data-src="./img/2.jpg" alt=""></a>
+    <div>
+      <p><a href="#">电视剧⑦电视剧⑦</a></p>
+      <p><span>三天更新一次</span></p>
+    </div>
+    <i class="icon icon-vip">VIP</i>
+    <i class="icon icon-selfFac"></i>
+    <i class="icon icon-px">1080P</i>
+    <i class="icon icon-jiquan">24集全</i>
+  </li>
+</ul>
