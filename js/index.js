@@ -83,7 +83,7 @@
             width = $banner.eq(0).width(),
             len = $li.length,
             timer = null,
-            tick = 5000,
+            tick = 3000,
             n = 0;
         $li.css('width', width + 'px');
         $ul.append($li.eq(0).clone());
